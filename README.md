@@ -34,5 +34,4 @@ A program used to draw various shapes using the C ++ language by Win32
  13. Clipping Algorithm With Point mithod and line mithod
  
 
-## Credits
-[Tarek Idrees](https://github.com/TarekIdrees)  - [Mohamed Mahmoud](https://github.com/Thesnak) - Mohamed Idrees
+## Credits [EngMohamadIdrees](https://github.com/EngMohamadIdrees) -[Tarek Idrees](https://github.com/TarekIdrees) - [Mohamed Mahmoud](https://github.com/Thesnak)
